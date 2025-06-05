@@ -20,6 +20,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: PamelaXisto
+          primary_color: '#E91E63'   # cor rosa
           outputs: |
             ./output/github-snake.svg
             ./output/github-snake-dark.svg
@@ -31,4 +32,3 @@ jobs:
           git add -A
           git commit -m "Generate snake animation"
           git push
-
