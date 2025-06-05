@@ -1,6 +1,9 @@
 # .github/workflows/snake.yml
 name: Generate Snake Animation
 
+permissions:
+  contents: write  # Dá permissão para fazer commit/push
+
 on:
   schedule:
     - cron: "0 0 * * *"  # executa diariamente às 00:00 UTC
@@ -28,3 +31,4 @@ jobs:
           git add -A
           git commit -m "Generate snake animation"
           git push
+
