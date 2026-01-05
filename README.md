@@ -4,13 +4,13 @@
 
 #
 
-
 <div>
-  <a href="https://beacons.aiPamelaXisto">
+  <a href="https://beacons.ai/PamelaXisto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PamelaXisto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamelaXisto&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pamela-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
