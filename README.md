@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'am Pâmela! Welcome. 👋</h1>
  
-<p align="center">Sou estudante de Análise e Sistemas de Dados, apaixonada por Back-end e sempre explorando novas tecnologias para criar projetos incríveis.</p>
+<p align="center">  Sou desenvolvedora Full Stack com foco em Java e React, apaixonada por tecnologia e pela criação de soluções modernas e escaláveis. </p>
 
 #
 
